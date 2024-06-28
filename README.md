@@ -1,4 +1,4 @@
-### Deep Learning Research Lead @ AssemblyAI
+### Staff Researcher @ AssemblyAI
  
 
 [![](https://github-readme-stats.vercel.app/api?username=deepconsc&count_private=true)](https://github.com/deepconsc)  
